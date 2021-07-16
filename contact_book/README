@@ -1,0 +1,14 @@
+HI EVERYONE and welcome sixth challenge.
+
+
+> This challenge is a basic CRUD over a static file
+
+> keep in mind that the two files are essential for the operation of the entire project
+
+> In this project you can to do next:
+
+- print contact list
+- print contact name filtered for his initial letter
+- add contact
+- search contact
+- delete contact
